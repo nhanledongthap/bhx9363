@@ -1,0 +1,6 @@
+{
+  "name": "Bách Hóa Xanh - Dashboard Báo Cáo Kinh Doanh Siêu Thị",
+  "description": "Báo cáo doanh thu kinh doanh chuỗi siêu thị Bách Hóa Xanh khu vực An Giang gồm 21 siêu thị, theo dõi lũy kế doanh thu, retime hôm nay, tỷ lệ hoàn thành target và biểu đồ phân tích.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
